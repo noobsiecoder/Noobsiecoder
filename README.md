@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **noobsiecoder@gmail.com**
 
-- ⚡ Fun fact **I need a <br/>**
+- ⚡ Fun fact **Got a new error, I made a progress **
 
 
 <h3 align="left">Languages and Tools:</h3>
