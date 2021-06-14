@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sriram</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Todo List CLI](https://github.com/Noobsiecoder/todo-list-cli)
+- 🔭 I’m currently working on [Windbnd - devchallenges](https://github.com/Noobsiecoder/windbnb)
 
-- 🌱 I’m currently learning **Rust and Next.js**
+- 🌱 I’m currently learning **TypeScript with React and Redux**
 
 - 👯 I’m looking to collaborate on **full stack development and designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noobsiecoder](https://github.com/Noobsiecoder)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Rust, C++, Python, Flask, MongoDB, SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Redux, Node.js, Rust, C++, Python, Flask, MongoDB, SQL**
 
 - 📫 How to reach me **noobsiecoder@gmail.com**
 
