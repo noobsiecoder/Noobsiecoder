@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sriram</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Tic Tac Toe CLI Game](https://github.com/Noobsiecoder/tic-tac-toe-rust)
+- 🔭 I’m currently working on [Automator CLI](https://github.com/Noobsiecoder/automator-cli)
 
 - 🌱 I’m currently learning **TypeScript with React and Redux**
 
