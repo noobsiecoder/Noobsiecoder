@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Automator CLI](https://github.com/Noobsiecoder/automator-cli)
 
-- 🌱 I’m currently learning **TypeScript with React and Redux**
+- 🌱 I’m currently learning **Testing applications in [Rust-lang](https://www.rust-lang.org/)**
 
 - 👯 I’m looking to collaborate on **full stack development and designing**
 
