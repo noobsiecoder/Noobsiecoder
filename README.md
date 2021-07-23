@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sriram</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Automator CLI](https://github.com/Noobsiecoder/automator-cli)
+- 🔭 I’m currently working on my problem solving skills
 
-- 🌱 I’m currently learning **Testing applications in [Rust-lang](https://www.rust-lang.org/)**
+- 🌱 I’m currently learning **Testing applications in [Rust-lang](https://www.rust-lang.org/)** and **Shell Scripting**
 
 - 👯 I’m looking to collaborate on **full stack development and designing**
 
