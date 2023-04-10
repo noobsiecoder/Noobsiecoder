@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [microcontrollers(Arduino) and IoT](https://github.com/Noobsiecoder/arduino-projects/)
 
-- 🌱 I’m currently learning **Arduino, IoT & myriad of mobile robotics**
+- 🌱 I’m currently learning **Arduino, IoT & mobile robotics**
 
 - 💬 Ask me about **C/C++, Rust, Java, TypeScript(React | Redux)**
 
