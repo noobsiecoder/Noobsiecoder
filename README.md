@@ -22,6 +22,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Prime Number Gaps in Rust: A Practical Implementation](https://medium.com/@abhisheksriram845/exploring-prime-number-gaps-in-rust-a-practical-implementation-9f2d4ba188c5?source=rss-e33fc4b46770------2)
+- [Rot13: Simple Caesar encryption](https://medium.com/@abhisheksriram845/rot13-simple-caesar-encryption-981463589759?source=rss-e33fc4b46770------2)
+- [What’s a Perfect Power anyway?](https://medium.com/@abhisheksriram845/whats-a-perfect-power-anyway-6672572c9730?source=rss-e33fc4b46770------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
