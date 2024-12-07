@@ -9,6 +9,7 @@ import rehypeKatex from 'rehype-katex'
 // https://astro.build/config
 export default defineConfig({
   site: 'https://noobsiecoder.github.io',
+  base: '/',
   vite: {
     server: {
       watch: { usePolling: true }
